@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+MIDlet-Vendor: Gameloft SA
+MIDlet-Version: 1.1.8
+LGE-MIDlet-Width: 320
+Created-By: 1.6.0_24 (Sun Microsystems Inc.)
+MIDlet-Name: Gangstar Rio: City of Saints
+SEMC-Screen-Size: 320,240
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: Gangstar Rio: City of Saints, /icon.png, GloftGRIO
+LGE-MIDlet-Indicator: Hide
+MIDlet-Icon: /icon.png
+LGE-MIDlet-Height: 240
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Delete-Confirm: More free games on dedomil.net
+MIDlet-Description: Visit dedomil.net for more games!
+MIDlet-Info-URL: http://dedomil.net
