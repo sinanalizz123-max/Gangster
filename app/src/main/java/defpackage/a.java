@@ -6345,7 +6345,7 @@ public final class a extends g implements b, d, j, n, p {
     /* JADX WARN: Type inference failed for: r0v3, types: [java.lang.Throwable, java.lang.Exception] */
     /* renamed from: b, reason: collision with other method in class */
     public static short m23b(int i2) {
-        ?? m21r = m21r(i2);
+        Object m21r = m21r(i2);
         if (m21r < 0) {
             try {
                 m21r = new Exception();
@@ -6652,7 +6652,7 @@ public final class a extends g implements b, d, j, n, p {
         }
         int i2 = 0;
         while (true) {
-            ?? r0 = i2;
+            Object r0 = i2;
             if (r0 >= 1) {
                 return;
             }
@@ -6700,7 +6700,7 @@ public final class a extends g implements b, d, j, n, p {
     /* JADX WARN: Type inference failed for: r0v2, types: [java.lang.Throwable] */
     public static void a(int i2, boolean z2) {
         if (aI) {
-            ?? r0 = i2;
+            Object r0 = i2;
             try {
                 if (aJ || aK) {
                     if (aJ || r0 >= 24 || r0 == 4 || r0 == 3 || r0 == 14 || r0 == 15 || m33v((int) r0) != 9) {
@@ -18075,7 +18075,7 @@ public final class a extends g implements b, d, j, n, p {
         int length2 = f349a[i14].length;
         for (int i16 = 0; i16 < length2; i16++) {
             int C4 = C(i14, i16);
-            ?? r0 = new byte[C4];
+            Object r0 = new byte[C4];
             for (int i17 = 0; i17 < C4; i17++) {
                 r0[i17] = bArr[m88d(i14, i16, i17)];
             }

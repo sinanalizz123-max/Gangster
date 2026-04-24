@@ -42,8 +42,6 @@ interface h {
     public static final int[] f642f = {0, 0, 0, 1, -4};
     public static final int u = g.e() - 50;
 
-    static {
-        int[] iArr = {125, 125, 125, 125, 125};
         int[] iArr2 = {10, 10, 20, 7, 7};
         int[] iArr3 = {43, 50, 25, 56, 45};
     }

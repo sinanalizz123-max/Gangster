@@ -1298,7 +1298,7 @@ public final class l implements Runnable, CommandListener {
             case -1:
                 f843b = new Image[K];
                 f844c = new Image[W];
-                ?? r0 = new Image[3];
+                Object r0 = new Image[3];
                 f863a = r0;
                 r0[0] = new Image[f822c.length];
                 f863a[1] = new Image[f823d.length];

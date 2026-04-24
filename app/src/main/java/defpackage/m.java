@@ -394,7 +394,7 @@ public final class m implements p {
     /* JADX WARN: Type inference failed for: r0v8, types: [java.lang.Throwable] */
     public final boolean a() {
         int m139j = g.m139j(this.l) - i.m188c(0);
-        ?? m139j2 = g.m139j(this.m) - i.m189d(0);
+        Object m139j2 = g.m139j(this.m) - i.m189d(0);
         try {
             if (this.f909a == null) {
                 f fVar = a.f16b[this.p];

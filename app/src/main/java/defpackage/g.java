@@ -1713,7 +1713,7 @@ public abstract class g extends Canvas implements Runnable {
                     sArr2 = sArr3;
                     break;
                 case 2:
-                    ?? r0 = new int[b2];
+                    Object r0 = new int[b2];
                     if (i2 == 0) {
                         for (int i7 = 0; i7 < b2; i7++) {
                             r0[i7] = (byte) m156a(inputStream);
@@ -2146,7 +2146,7 @@ public abstract class g extends Canvas implements Runnable {
         s = 0;
         v = f586b;
         w = f587c;
-        ?? r0 = new int[16];
+        Object r0 = new int[16];
         f630b = r0;
         r0[12] = new int[2];
         switch (12) {
