@@ -22,7 +22,7 @@ public final class a extends g implements b, d, j, n, p {
 
     /* renamed from: a, reason: collision with other field name */
     static byte[] f5a;
-    private static byte[] i_renamed;
+    private static byte[] i_shadow;
     static int c;
     static int d;
     static int e;
@@ -93,7 +93,7 @@ public final class a extends g implements b, d, j, n, p {
     private static boolean aa;
 
     /* renamed from: a, reason: collision with other field name */
-    public static m_renamed f21a;
+    public static m f21a;
     private static int bO;
 
     /* renamed from: c, reason: collision with other field name */
@@ -179,16 +179,16 @@ public final class a extends g implements b, d, j, n, p {
     static boolean f40h;
 
     /* renamed from: b, reason: collision with other field name */
-    static m_renamed f41b;
+    static m f41b;
 
     /* renamed from: c, reason: collision with other field name */
-    static m_renamed f42c;
+    static m f42c;
     static int o;
     static int p;
     static int q;
 
     /* renamed from: d, reason: collision with other field name */
-    static m_renamed f43d;
+    static m f43d;
 
     /* renamed from: d, reason: collision with other field name */
     static final int[] f44d;
@@ -296,7 +296,7 @@ public final class a extends g implements b, d, j, n, p {
     private static int cJ;
 
     /* renamed from: g, reason: collision with other field name */
-    private static i_renamed f63g;
+    private static i f63g;
 
     /* renamed from: f, reason: collision with other field name */
     private static String f64f;
@@ -631,7 +631,7 @@ public final class a extends g implements b, d, j, n, p {
     public static String f142a;
 
     /* renamed from: h, reason: collision with other field name */
-    private static i_renamed f143h;
+    private static i f143h;
 
     /* renamed from: f, reason: collision with other field name */
     private static byte f144f;
@@ -643,7 +643,7 @@ public final class a extends g implements b, d, j, n, p {
     private static int dK;
 
     /* renamed from: j, reason: collision with other field name */
-    private static m_renamed f146j;
+    private static m f146j;
 
     /* renamed from: O, reason: collision with other field name */
     public static int f147O;
@@ -774,7 +774,7 @@ public final class a extends g implements b, d, j, n, p {
     private static Graphics f176c;
 
     /* renamed from: e, reason: collision with other field name */
-    static m_renamed f177e;
+    static m f177e;
 
     /* renamed from: aj, reason: collision with other field name */
     private static int[] f178aj;
@@ -831,13 +831,13 @@ public final class a extends g implements b, d, j, n, p {
     private static int eT;
 
     /* renamed from: f, reason: collision with other field name */
-    static m_renamed f187f;
+    static m f187f;
 
     /* renamed from: g, reason: collision with other field name */
-    static m_renamed f188g;
+    static m f188g;
 
     /* renamed from: k, reason: collision with other field name */
-    private static m_renamed f189k;
+    private static m f189k;
     private static boolean aT;
     private static int eU;
 
@@ -869,49 +869,49 @@ public final class a extends g implements b, d, j, n, p {
     private static boolean aZ;
 
     /* renamed from: i, reason: collision with other field name */
-    private static i_renamed f195i;
+    private static i f195i;
 
     /* renamed from: j, reason: collision with other field name */
-    private static i_renamed f196j;
+    private static i f196j;
 
     /* renamed from: a, reason: collision with other field name */
-    public static i_renamed f197a;
+    public static i f197a;
 
     /* renamed from: k, reason: collision with other field name */
-    private static i_renamed f198k;
+    private static i f198k;
 
     /* renamed from: l, reason: collision with other field name */
-    private static i_renamed f199l;
+    private static i f199l;
 
     /* renamed from: m, reason: collision with other field name */
-    private static i_renamed f200m;
+    private static i f200m;
 
     /* renamed from: b, reason: collision with other field name */
-    public static i_renamed f201b;
+    public static i f201b;
 
     /* renamed from: n, reason: collision with other field name */
-    private static i_renamed f202n;
+    private static i f202n;
 
     /* renamed from: o, reason: collision with other field name */
-    private static i_renamed f203o;
+    private static i f203o;
 
     /* renamed from: p, reason: collision with other field name */
-    private static i_renamed f204p;
+    private static i f204p;
 
     /* renamed from: c, reason: collision with other field name */
-    public static i_renamed f205c;
+    public static i f205c;
 
     /* renamed from: q, reason: collision with other field name */
-    private static i_renamed f206q;
+    private static i f206q;
 
     /* renamed from: d, reason: collision with other field name */
-    public static i_renamed f207d;
+    public static i f207d;
 
     /* renamed from: e, reason: collision with other field name */
-    public static i_renamed f208e;
+    public static i f208e;
 
     /* renamed from: f, reason: collision with other field name */
-    public static i_renamed f209f;
+    public static i f209f;
 
     /* renamed from: ae, reason: collision with other field name */
     static int f210ae;
@@ -1091,7 +1091,7 @@ public final class a extends g implements b, d, j, n, p {
     private static boolean bi;
 
     /* renamed from: r, reason: collision with other field name */
-    private static i_renamed f250r;
+    private static i f250r;
 
     /* renamed from: a, reason: collision with other field name */
     private static i[] f251a;
@@ -1228,7 +1228,7 @@ public final class a extends g implements b, d, j, n, p {
     private static int gl;
 
     /* renamed from: s, reason: collision with other field name */
-    private static i_renamed f289s;
+    private static i f289s;
     private static int gm;
     private static int gn;
     private static boolean bo;
@@ -1363,10 +1363,10 @@ public final class a extends g implements b, d, j, n, p {
     private static int gH;
 
     /* renamed from: t, reason: collision with other field name */
-    private static i_renamed f324t;
+    private static i f324t;
 
     /* renamed from: u, reason: collision with other field name */
-    private static i_renamed f325u;
+    private static i f325u;
     private static int gI;
 
     /* renamed from: aE, reason: collision with other field name */
@@ -1642,10 +1642,10 @@ public final class a extends g implements b, d, j, n, p {
     private static int hH;
 
     /* renamed from: h, reason: collision with other field name */
-    static m_renamed f399h;
+    static m f399h;
 
     /* renamed from: l, reason: collision with other field name */
-    private static m_renamed f400l;
+    private static m f400l;
     private static int hI;
 
     /* renamed from: G, reason: collision with other field name */
@@ -1716,7 +1716,7 @@ public final class a extends g implements b, d, j, n, p {
     static boolean f415I;
 
     /* renamed from: m, reason: collision with other field name */
-    private static m_renamed f416m;
+    private static m f416m;
 
     /* renamed from: if, reason: not valid java name */
     private static int f417if;
@@ -1767,7 +1767,7 @@ public final class a extends g implements b, d, j, n, p {
     static int[] f430j;
 
     /* renamed from: i, reason: collision with other field name */
-    static m_renamed f431i;
+    static m f431i;
 
     /* renamed from: p, reason: collision with other field name */
     private static byte[] f432p;
@@ -1779,7 +1779,7 @@ public final class a extends g implements b, d, j, n, p {
     private static boolean f434bP;
 
     /* renamed from: v, reason: collision with other field name */
-    private static i_renamed f435v;
+    private static i f435v;
 
     /* renamed from: Q, reason: collision with other field name */
     public static boolean f436Q;
@@ -1818,7 +1818,7 @@ public final class a extends g implements b, d, j, n, p {
     private static boolean f445bU;
 
     /* renamed from: n, reason: collision with other field name */
-    private static m_renamed f446n;
+    private static m f446n;
 
     /* renamed from: bV, reason: collision with other field name */
     private static boolean f447bV;
@@ -1989,7 +1989,7 @@ public final class a extends g implements b, d, j, n, p {
 
     /* JADX INFO: Access modifiers changed from: package-private */
     public static final int c(int i2, int i3) {
-        int j2 = i_renamed.j(i2);
+        int j2 = i.j(i2);
         int i4 = j2;
         if (j2 < 0) {
             i4 = 0;
@@ -2008,7 +2008,7 @@ public final class a extends g implements b, d, j, n, p {
     }
 
     private static int x(int i2, int i3) {
-        int m197k = i_renamed.m197k(i2);
+        int m197k = i.m197k(i2);
         int i4 = m197k;
         if (m197k < 0) {
             i4 = 0;
@@ -2053,15 +2053,15 @@ public final class a extends g implements b, d, j, n, p {
     }
 
     private static int n() {
-        return i_renamed.m196i(2);
+        return i.m196i(2);
     }
 
     private static void D() {
         int i2;
-        i_renamed.a(0, f364i);
-        m_renamed mVar = m_renamed.f905d;
+        i.a(0, f364i);
+        m mVar = m.f905d;
         while (true) {
-            m_renamed mVar2 = mVar;
+            m mVar2 = mVar;
             if (mVar2 == null) {
                 F();
                 return;
@@ -2070,8 +2070,8 @@ public final class a extends g implements b, d, j, n, p {
                 f16b[mVar2.p].a(m.f899a, mVar2.q, g.m139j(mVar2.l), g.m139j(mVar2.m), mVar2.h);
                 boolean z2 = (mVar2.i & 2) != 0 && (mVar2.i & 4) == 0;
                 boolean z3 = z2;
-                if (z2 || g.a(f364i[0], f364i[1], f364i[2], f364i[3], m_renamed.f899a[0], m_renamed.f899a[1], m_renamed.f899a[2], m_renamed.f899a[3])) {
-                    i_renamed.a(0, f16b[mVar2.p], mVar2.q, g.m139j(mVar2.l), g.m139j(mVar2.m), mVar2.h, z3);
+                if (z2 || g.a(f364i[0], f364i[1], f364i[2], f364i[3], m.f899a[0], m.f899a[1], m.f899a[2], m.f899a[3])) {
+                    i.a(0, f16b[mVar2.p], mVar2.q, g.m139j(mVar2.l), g.m139j(mVar2.m), mVar2.h, z3);
                     mVar2.i &= -3;
                     mVar2.i |= 4;
                 }
@@ -2081,12 +2081,12 @@ public final class a extends g implements b, d, j, n, p {
                 if (m17a != -1 && b2 != -1) {
                     boolean z4 = (mVar2.i & 2) != 0 && (mVar2.i & 4) == 0;
                     f16b[m17a].a(m.f899a, b2, g.m139j(mVar2.l), g.m139j(mVar2.m), 0);
-                    if (z4 || g.a(f364i[0], f364i[1], f364i[2], f364i[3], m_renamed.f899a[0], m_renamed.f899a[1], m_renamed.f899a[2], m_renamed.f899a[3])) {
-                        i_renamed.a(0, f16b[m17a], b2, g.m139j(mVar2.l), g.m139j(mVar2.m), 0, z4);
+                    if (z4 || g.a(f364i[0], f364i[1], f364i[2], f364i[3], m.f899a[0], m.f899a[1], m.f899a[2], m.f899a[3])) {
+                        i.a(0, f16b[m17a], b2, g.m139j(mVar2.l), g.m139j(mVar2.m), 0, z4);
                         mVar2.i &= -3;
                         mVar2.i |= 4;
                         mVar2.f908d[0] = -1;
-                        a(m.f899a[0], m_renamed.f899a[1], m_renamed.f899a[2], m_renamed.f899a[3], mVar2.f908d);
+                        a(m.f899a[0], m.f899a[1], m.f899a[2], m.f899a[3], mVar2.f908d);
                         if (mVar2.f908d[0] != -1) {
                             int i3 = f;
                             int i4 = mVar2.n + 2;
@@ -2124,24 +2124,24 @@ public final class a extends g implements b, d, j, n, p {
         }
         k.a(f364i[0], f364i[1], f364i[2] - f364i[0], f364i[3] - f364i[1]);
         for (int i7 = 0; i7 < 4; i7++) {
-            if (m.f900b[i7] > -1 && m_renamed.f900b[i7] < m_renamed.f896a.length) {
-                m_renamed mVar = m_renamed.f896a[m.f900b[i7]];
+            if (m.f900b[i7] > -1 && m.f900b[i7] < m.f896a.length) {
+                m mVar = m.f896a[m.f900b[i7]];
                 while (true) {
-                    m_renamed mVar2 = mVar;
+                    m mVar2 = mVar;
                     if (mVar2 != null) {
                         if (mVar2.a == 5 && mVar2.p == 38) {
                             f16b[mVar2.p].a(m.f899a, mVar2.q, g.m139j(mVar2.l), g.m139j(mVar2.m), mVar2.h);
-                            if (g.a(f364i[0], f364i[1], f364i[2], f364i[3], m_renamed.f899a[0], m_renamed.f899a[1], m_renamed.f899a[2], m_renamed.f899a[3])) {
-                                i_renamed.a(0, f16b[mVar2.p], mVar2.q, g.m139j(mVar2.l), g.m139j(mVar2.m), mVar2.h, false);
+                            if (g.a(f364i[0], f364i[1], f364i[2], f364i[3], m.f899a[0], m.f899a[1], m.f899a[2], m.f899a[3])) {
+                                i.a(0, f16b[mVar2.p], mVar2.q, g.m139j(mVar2.l), g.m139j(mVar2.m), mVar2.h, false);
                             }
                         } else if (mVar2.a == 5 && !m8a(mVar2.f897e) && mVar2.f897e != -1) {
                             int m17a = m17a(mVar2);
                             int b2 = b(mVar2);
                             if (m17a != -1 && b2 != -1) {
                                 f16b[m17a].a(m.f899a, b2, g.m139j(mVar2.l), g.m139j(mVar2.m), 0);
-                                if (g.a(f364i[0], f364i[1], f364i[2], f364i[3], m_renamed.f899a[0], m_renamed.f899a[1], m_renamed.f899a[2], m_renamed.f899a[3])) {
-                                    m_renamed.c(mVar2);
-                                    i_renamed.a(0, f16b[m17a], b2, g.m139j(mVar2.l), g.m139j(mVar2.m), 0, false);
+                                if (g.a(f364i[0], f364i[1], f364i[2], f364i[3], m.f899a[0], m.f899a[1], m.f899a[2], m.f899a[3])) {
+                                    m.c(mVar2);
+                                    i.a(0, f16b[m17a], b2, g.m139j(mVar2.l), g.m139j(mVar2.m), 0, false);
                                 }
                             }
                         }
@@ -2153,10 +2153,10 @@ public final class a extends g implements b, d, j, n, p {
     }
 
     private static void E() {
-        i_renamed.a(0, f364i);
-        m_renamed mVar = m_renamed.f905d;
+        i.a(0, f364i);
+        m mVar = m.f905d;
         while (true) {
-            m_renamed mVar2 = mVar;
+            m mVar2 = mVar;
             if (mVar2 == null) {
                 F();
                 return;
@@ -2164,13 +2164,13 @@ public final class a extends g implements b, d, j, n, p {
             if (a(mVar2) && mVar2.f909a == null) {
                 boolean z2 = (mVar2.i & 2) != 0 && (mVar2.i & 4) == 0;
                 f16b[mVar2.p].a(m.f899a, mVar2.q, g.m139j(mVar2.l), g.m139j(mVar2.m), mVar2.h);
-                if (z2 || g.a(f364i[0], f364i[1], f364i[2], f364i[3], m_renamed.f899a[0], m_renamed.f899a[1], m_renamed.f899a[2], m_renamed.f899a[3])) {
-                    m_renamed.c(mVar2);
-                    i_renamed.a(0, f16b[mVar2.p], mVar2.q, g.m139j(mVar2.l), g.m139j(mVar2.m), mVar2.h, z2);
+                if (z2 || g.a(f364i[0], f364i[1], f364i[2], f364i[3], m.f899a[0], m.f899a[1], m.f899a[2], m.f899a[3])) {
+                    m.c(mVar2);
+                    i.a(0, f16b[mVar2.p], mVar2.q, g.m139j(mVar2.l), g.m139j(mVar2.m), mVar2.h, z2);
                     mVar2.i &= -3;
                     mVar2.i |= 4;
                     mVar2.f908d[0] = -1;
-                    a(m.f899a[0], m_renamed.f899a[1], m_renamed.f899a[2], m_renamed.f899a[3], mVar2.f908d);
+                    a(m.f899a[0], m.f899a[1], m.f899a[2], m.f899a[3], mVar2.f908d);
                     if (mVar2.f908d[0] != -1) {
                         a(mVar2, g.b, mVar2.f908d, mVar2.n, g.m139j(mVar2.m) / 16, true);
                     }
@@ -2184,8 +2184,8 @@ public final class a extends g implements b, d, j, n, p {
         for (int i2 = 0; i2 <= f11e; i2++) {
             int i3 = f9a[i2] << 4;
             int i4 = f10b[i2] << 4;
-            i_renamed.b(0, i3, i4, 16, 16);
-            i_renamed.b(1, i3, i4, 16, 16);
+            i.b(0, i3, i4, 16, 16);
+            i.b(1, i3, i4, 16, 16);
         }
         f11e = (byte) -1;
     }
@@ -2197,16 +2197,16 @@ public final class a extends g implements b, d, j, n, p {
         }
         k.a(f364i[0], f364i[1], f364i[2] - f364i[0], f364i[3] - f364i[1]);
         for (int i7 = 0; i7 < 4; i7++) {
-            if (m.f900b[i7] > -1 && m_renamed.f900b[i7] < m_renamed.f896a.length) {
-                m_renamed mVar = m_renamed.f896a[m.f900b[i7]];
+            if (m.f900b[i7] > -1 && m.f900b[i7] < m.f896a.length) {
+                m mVar = m.f896a[m.f900b[i7]];
                 while (true) {
-                    m_renamed mVar2 = mVar;
+                    m mVar2 = mVar;
                     if (mVar2 != null) {
                         if (a(mVar2) && mVar2.f909a == null) {
                             f16b[mVar2.p].a(m.f899a, mVar2.q, g.m139j(mVar2.l), g.m139j(mVar2.m), mVar2.h);
-                            if (g.a(f364i[0], f364i[1], f364i[2], f364i[3], m_renamed.f899a[0], m_renamed.f899a[1], m_renamed.f899a[2], m_renamed.f899a[3])) {
-                                m_renamed.c(mVar2);
-                                i_renamed.a(0, f16b[mVar2.p], mVar2.q, g.m139j(mVar2.l), g.m139j(mVar2.m), mVar2.h, false);
+                            if (g.a(f364i[0], f364i[1], f364i[2], f364i[3], m.f899a[0], m.f899a[1], m.f899a[2], m.f899a[3])) {
+                                m.c(mVar2);
+                                i.a(0, f16b[mVar2.p], mVar2.q, g.m139j(mVar2.l), g.m139j(mVar2.m), mVar2.h, false);
                             }
                         }
                         mVar = mVar2.f901a;
@@ -2232,17 +2232,17 @@ public final class a extends g implements b, d, j, n, p {
 
     private static void j(int i2, int i3) {
         int i4 = i3 / f;
-        i_renamed.b(i2, (i3 - (i4 * f)) << 4, i4 << 4, 16, 16);
+        i.b(i2, (i3 - (i4 * f)) << 4, i4 << 4, 16, 16);
     }
 
     private static void g(Graphics graphics, int i2, int i3, int i4, int i5) {
         int i6 = i3 / f;
-        i_renamed.a(graphics, i2, i3 - (i6 * f), i6, i4, i5);
+        i.a(graphics, i2, i3 - (i6 * f), i6, i4, i5);
     }
 
     private static void k(int i2, int i3) {
-        i_renamed.a(0, i2, i3);
-        i_renamed.a(1, i2, i3);
+        i.a(0, i2, i3);
+        i.a(1, i2, i3);
     }
 
     private static void G() {
@@ -2939,7 +2939,7 @@ public final class a extends g implements b, d, j, n, p {
 
     /* JADX INFO: Access modifiers changed from: package-private */
     public static void a(int i2, int i3, int i4, int i5, int i6, int i7) {
-        Graphics m195a = i_renamed.m195a(0);
+        Graphics m195a = i.m195a(0);
         f.m122a(336, 256);
         int m188c = (i.m188c(0) / 16) << 4;
         int m189d = (i.m189d(0) / 16) << 4;
@@ -3125,10 +3125,10 @@ public final class a extends g implements b, d, j, n, p {
             defpackage.a.f32d = r0
             r0 = r5
             r5 = r0
-            m_renamed r0 = defpackage.a.f21a
+            m r0 = defpackage.a.f21a
             int r0 = r0.l
             int r0 = defpackage.g.m139j(r0)
-            m_renamed r1 = defpackage.a.f21a
+            m r1 = defpackage.a.f21a
             int r1 = r1.m
             int r1 = defpackage.g.m139j(r1)
             r2 = 80
@@ -3168,7 +3168,7 @@ public final class a extends g implements b, d, j, n, p {
             goto La9
         L9a:
             r0 = r6
-            m_renamed r0 = r0.f901a
+            m r0 = r0.f901a
             r6 = r0
             goto L8a
         La2:
@@ -3241,7 +3241,7 @@ public final class a extends g implements b, d, j, n, p {
 
     /* JADX INFO: Access modifiers changed from: package-private */
     public static final int h(int i2, int i3) {
-        return i_renamed.m198a(0, c(i2, f), x(i3, g));
+        return i.m198a(0, c(i2, f), x(i3, g));
     }
 
     public static boolean a(int i2, int i3, int i4, int i5, int i6) {
@@ -3287,14 +3287,14 @@ public final class a extends g implements b, d, j, n, p {
     public static void a(int i2, int i3, int i4, int i5, int[] iArr) {
         int i6 = f;
         int i7 = g;
-        iArr[0] = i2 / i_renamed.m196i(2);
-        iArr[1] = i3 / i_renamed.m196i(5);
-        iArr[2] = i4 / i_renamed.m196i(2);
-        if (iArr[2] * i_renamed.m196i(2) != i4) {
+        iArr[0] = i2 / i.m196i(2);
+        iArr[1] = i3 / i.m196i(5);
+        iArr[2] = i4 / i.m196i(2);
+        if (iArr[2] * i.m196i(2) != i4) {
             iArr[2] = iArr[2] + 1;
         }
-        iArr[3] = i5 / i_renamed.m196i(5);
-        if (iArr[3] * i_renamed.m196i(5) != i5) {
+        iArr[3] = i5 / i.m196i(5);
+        if (iArr[3] * i.m196i(5) != i5) {
             iArr[3] = iArr[3] + 1;
         }
         if (iArr[0] < 0) {
@@ -3333,10 +3333,10 @@ public final class a extends g implements b, d, j, n, p {
                 return;
             }
         }
-        int m196i = i_renamed.m196i(2);
-        int m196i2 = i_renamed.m196i(5);
-        int m192g = i_renamed.m192g(0);
-        int m193h = i_renamed.m193h(0);
+        int m196i = i.m196i(2);
+        int m196i2 = i.m196i(5);
+        int m192g = i.m192g(0);
+        int m193h = i.m193h(0);
         int i5 = f;
         int i6 = -1;
         int i7 = 0;
@@ -3411,18 +3411,18 @@ public final class a extends g implements b, d, j, n, p {
                     if (z4) {
                         i6 = i12;
                     } else {
-                        int m188c = ((iArr[0] + i8) * m196i) - i_renamed.m188c(0);
+                        int m188c = ((iArr[0] + i8) * m196i) - i.m188c(0);
                         if (f384F) {
                             m188c -= f168Z;
                         }
                         int i13 = (iArr[0] + i8) - (i10 * m192g);
                         if (i9 != iArr[3] - 1 && i6 > i2 && (!m12b(e2) || i12 != 31)) {
                             int i14 = ((iArr[1] + i9) + 1) / m193h;
-                            int m189d = (((iArr[1] + i9) + 1) * m196i2) - i_renamed.m189d(0);
+                            int m189d = (((iArr[1] + i9) + 1) * m196i2) - i.m189d(0);
                             if (f384F) {
                                 m189d -= f169aa;
                             }
-                            int m192g2 = i13 + ((((iArr[1] + i9) + 1) - (i14 * m193h)) * i_renamed.m192g(0));
+                            int m192g2 = i13 + ((((iArr[1] + i9) + 1) - (i14 * m193h)) * i.m192g(0));
                             if ((p(m192g2) & 255 & 224) == 96) {
                                 if (f5a[i10 + (i14 * c)] >= bB) {
                                     if (z2) {
@@ -3447,14 +3447,14 @@ public final class a extends g implements b, d, j, n, p {
                                     g.d(m188c, m189d, 16, 16);
                                     if (336 - (i.m188c(0) % 336) > m188c) {
                                         if (256 - (i.m189d(0) % 256) > m189d) {
-                                            g.a(graphics, i_renamed.m194a(0), (g.f() + (i.m189d(0) % 256)) - i_renamed.l(0), (-i.m188c(0)) % 336, 0, false);
+                                            g.a(graphics, i.m194a(0), (g.f() + (i.m189d(0) % 256)) - i.l(0), (-i.m188c(0)) % 336, 0, false);
                                         } else {
-                                            g.a(graphics, i_renamed.m194a(0), ((g.f() - 256) + (i.m189d(0) % 256)) - i_renamed.l(0), (-i.m188c(0)) % 336, 0, false);
+                                            g.a(graphics, i.m194a(0), ((g.f() - 256) + (i.m189d(0) % 256)) - i.l(0), (-i.m188c(0)) % 336, 0, false);
                                         }
                                     } else if (256 - (i.m189d(0) % 256) > m189d) {
-                                        g.a(graphics, i_renamed.m194a(0), (g.f() + (i.m189d(0) % 256)) - i_renamed.l(0), 336 - (i.m188c(0) % 336), 0, false);
+                                        g.a(graphics, i.m194a(0), (g.f() + (i.m189d(0) % 256)) - i.l(0), 336 - (i.m188c(0) % 336), 0, false);
                                     } else {
-                                        g.a(graphics, i_renamed.m194a(0), ((g.f() - 256) + (i.m189d(0) % 256)) - i_renamed.l(0), 336 - (i.m188c(0) % 336), 0, false);
+                                        g.a(graphics, i.m194a(0), ((g.f() - 256) + (i.m189d(0) % 256)) - i.l(0), 336 - (i.m188c(0) % 336), 0, false);
                                     }
                                     g.d(0, 0, g.d(), g.e());
                                 }
@@ -3462,12 +3462,12 @@ public final class a extends g implements b, d, j, n, p {
                         }
                         i6 = i12;
                         i7 = e2 & 224;
-                        int m189d2 = ((iArr[1] + i9) * m196i2) - i_renamed.m189d(0);
+                        int m189d2 = ((iArr[1] + i9) * m196i2) - i.m189d(0);
                         if (f384F) {
                             m189d2 -= f169aa;
                         }
                         int i16 = (iArr[1] + i9) - (i11 * m193h);
-                        int m192g3 = i13 + (i16 * i_renamed.m192g(f5a[i10 + (i11 * c)] & 63));
+                        int m192g3 = i13 + (i16 * i.m192g(f5a[i10 + (i11 * c)] & 63));
                         if ((p(m192g3) & 255 & 224) == 96) {
                             if (f5a[i10 + (i11 * c)] >= bB) {
                                 if (z2) {
@@ -3504,14 +3504,14 @@ public final class a extends g implements b, d, j, n, p {
                                 g.d(m188c, m189d2, m196i, m196i);
                                 if (336 - (i.m188c(0) % 336) > m188c) {
                                     if (256 - (i.m189d(0) % 256) > m189d2) {
-                                        g.a(graphics, i_renamed.m194a(0), (g.f() + (i.m189d(0) % 256)) - i_renamed.l(0), (-i.m188c(0)) % 336, 0, false);
+                                        g.a(graphics, i.m194a(0), (g.f() + (i.m189d(0) % 256)) - i.l(0), (-i.m188c(0)) % 336, 0, false);
                                     } else {
-                                        g.a(graphics, i_renamed.m194a(0), ((g.f() - 256) + (i.m189d(0) % 256)) - i_renamed.l(0), (-i.m188c(0)) % 336, 0, false);
+                                        g.a(graphics, i.m194a(0), ((g.f() - 256) + (i.m189d(0) % 256)) - i.l(0), (-i.m188c(0)) % 336, 0, false);
                                     }
                                 } else if (256 - (i.m189d(0) % 256) > m189d2) {
-                                    g.a(graphics, i_renamed.m194a(0), (g.f() + (i.m189d(0) % 256)) - i_renamed.l(0), 336 - (i.m188c(0) % 336), 0, false);
+                                    g.a(graphics, i.m194a(0), (g.f() + (i.m189d(0) % 256)) - i.l(0), 336 - (i.m188c(0) % 336), 0, false);
                                 } else {
-                                    g.a(graphics, i_renamed.m194a(0), ((g.f() - 256) + (i.m189d(0) % 256)) - i_renamed.l(0), 336 - (i.m188c(0) % 336), 0, false);
+                                    g.a(graphics, i.m194a(0), ((g.f() - 256) + (i.m189d(0) % 256)) - i.l(0), 336 - (i.m188c(0) % 336), 0, false);
                                 }
                                 g.d(0, 0, g.d(), g.e());
                             }
@@ -3676,7 +3676,7 @@ public final class a extends g implements b, d, j, n, p {
     }
 
     /* JADX INFO: Access modifiers changed from: package-private */
-    public static void a(Graphics graphics, m_renamed mVar, int i2, int i3) {
+    public static void a(Graphics graphics, m mVar, int i2, int i3) {
         if (dA == 2 && g.o(0, 100) != 0) {
             int[] a2 = a(f16b[mVar.p], mVar.q);
             int i4 = f69E;
@@ -3706,7 +3706,7 @@ public final class a extends g implements b, d, j, n, p {
     }
 
     /* JADX INFO: Access modifiers changed from: package-private */
-    public static void b(Graphics graphics, m_renamed mVar, int i2, int i3) {
+    public static void b(Graphics graphics, m mVar, int i2, int i3) {
         if (dA != 2) {
             return;
         }
@@ -3784,8 +3784,8 @@ public final class a extends g implements b, d, j, n, p {
                 if (f21a == mVar && (mVar.f915a.m == 11 || mVar.f915a.m == 13)) {
                     m139j2 -= k.aa;
                 }
-                int m188c = m139j - i_renamed.m188c(0);
-                int m189d = m139j2 - i_renamed.m189d(0);
+                int m188c = m139j - i.m188c(0);
+                int m189d = m139j2 - i.m189d(0);
                 if (f384F) {
                     m188c -= f168Z;
                     m189d -= f169aa;
@@ -3805,8 +3805,8 @@ public final class a extends g implements b, d, j, n, p {
                 }
                 int m139j3 = g.m139j(mVar.l) + m120a[length + 2] + m175a.b((int) s2);
                 int m139j4 = g.m139j(mVar.m) + m120a[length + 3] + m175a.c((int) s2);
-                int m188c2 = m139j3 - i_renamed.m188c(0);
-                int m189d2 = m139j4 - i_renamed.m189d(0);
+                int m188c2 = m139j3 - i.m188c(0);
+                int m189d2 = m139j4 - i.m189d(0);
                 if (f384F) {
                     m188c2 -= f168Z;
                     m189d2 -= f169aa;
@@ -3845,9 +3845,9 @@ public final class a extends g implements b, d, j, n, p {
                 m120a[length + 3] = -m120a[length + 3];
             }
         }
-        int m188c = i2 - i_renamed.m188c(0);
-        int m189d = i3 - i_renamed.m189d(0);
-        if (k.a((((g.m139j(mVar.l) + m120a[length]) + m175a.b((int) s2)) - i_renamed.m188c(0)) - m188c, (((g.m139j(mVar.m) + m120a[length + 1]) + m175a.c((int) s2)) - i_renamed.m189d(0)) - m189d) < 6) {
+        int m188c = i2 - i.m188c(0);
+        int m189d = i3 - i.m189d(0);
+        if (k.a((((g.m139j(mVar.l) + m120a[length]) + m175a.b((int) s2)) - i.m188c(0)) - m188c, (((g.m139j(mVar.m) + m120a[length + 1]) + m175a.c((int) s2)) - i.m189d(0)) - m189d) < 6) {
             if ((mVar.v & 1) > 0) {
                 mVar.v &= -2;
                 mVar.v |= 4;
@@ -3858,7 +3858,7 @@ public final class a extends g implements b, d, j, n, p {
         if (mVar.f915a.m279g()) {
             return;
         }
-        if (k.a((((g.m139j(mVar.l) + m120a[length + 2]) + m175a.b((int) s2)) - i_renamed.m188c(0)) - m188c, (((g.m139j(mVar.m) + m120a[length + 3]) + m175a.c((int) s2)) - i_renamed.m189d(0)) - m189d) < 6) {
+        if (k.a((((g.m139j(mVar.l) + m120a[length + 2]) + m175a.b((int) s2)) - i.m188c(0)) - m188c, (((g.m139j(mVar.m) + m120a[length + 3]) + m175a.c((int) s2)) - i.m189d(0)) - m189d) < 6) {
             if ((mVar.v & 2) <= 0) {
                 mVar.v |= 2;
             } else {
@@ -3903,8 +3903,8 @@ public final class a extends g implements b, d, j, n, p {
     public static void m18b(m mVar) {
         int i2 = mVar.p;
         int b2 = mVar.f909a != null ? mVar.f909a.b() : mVar.q;
-        i_renamed.a(0, f16b[i2], b2, g.m139j(mVar.l), g.m139j(mVar.m), mVar.h);
-        i_renamed.a(1, f16b[i2], b2, g.m139j(mVar.l), g.m139j(mVar.m), mVar.h);
+        i.a(0, f16b[i2], b2, g.m139j(mVar.l), g.m139j(mVar.m), mVar.h);
+        i.a(1, f16b[i2], b2, g.m139j(mVar.l), g.m139j(mVar.m), mVar.h);
         b(i2, b2, mVar.l, mVar.m, mVar.h);
         c(i2, b2, mVar.l, mVar.m, mVar.h);
         int m17a = m17a(mVar);
@@ -3912,8 +3912,8 @@ public final class a extends g implements b, d, j, n, p {
         if (m17a == -1 || b3 == -1) {
             return;
         }
-        i_renamed.a(0, f16b[m17a], b3, g.m139j(mVar.l), g.m139j(mVar.m), 0);
-        i_renamed.a(1, f16b[m17a], b3, g.m139j(mVar.l), g.m139j(mVar.m), 0);
+        i.a(0, f16b[m17a], b3, g.m139j(mVar.l), g.m139j(mVar.m), 0);
+        i.a(1, f16b[m17a], b3, g.m139j(mVar.l), g.m139j(mVar.m), 0);
         b(m17a, b3, mVar.l, mVar.m, mVar.h);
         c(m17a, b3, mVar.l, mVar.m, mVar.h);
     }
@@ -5222,7 +5222,7 @@ public final class a extends g implements b, d, j, n, p {
         } else {
             f318j = "";
             ey = 500;
-            i_renamed.m183d();
+            i.m183d();
         }
     }
 
@@ -6101,10 +6101,10 @@ public final class a extends g implements b, d, j, n, p {
             return;
         }
         dh = -1;
-        for (int i2 = 0; i2 < m_renamed.f896a.length; i2++) {
-            m_renamed mVar = m_renamed.f896a[i2];
+        for (int i2 = 0; i2 < m.f896a.length; i2++) {
+            m mVar = m.f896a[i2];
             while (true) {
-                m_renamed mVar2 = mVar;
+                m mVar2 = mVar;
                 if (mVar2 != null) {
                     if ((mVar2.h & 256) == 256 && mVar2.f915a.ah > 0) {
                         int i3 = mVar2.f915a.ah;
@@ -6566,7 +6566,7 @@ public final class a extends g implements b, d, j, n, p {
     public static void m29a() {
         if (aI) {
             try {
-                i_renamed.m183d();
+                i.m183d();
             } catch (Exception e2) {
                 System.out.println("6");
                 e2.printStackTrace();
@@ -6575,7 +6575,7 @@ public final class a extends g implements b, d, j, n, p {
     }
 
     private static void Y() {
-        i_renamed.m183d();
+        i.m183d();
     }
 
     /* renamed from: b, reason: collision with other method in class */
@@ -6714,8 +6714,8 @@ public final class a extends g implements b, d, j, n, p {
                                     return;
                                 }
                             }
-                            i_renamed.m183d();
-                            i_renamed.a(0, (int) r0, z2 ? 0 : 1, 100, 0);
+                            i.m183d();
+                            i.a(0, (int) r0, z2 ? 0 : 1, 100, 0);
                             dz = r0;
                             r0 = System.currentTimeMillis();
                             f128c = r0;
@@ -6739,8 +6739,8 @@ public final class a extends g implements b, d, j, n, p {
                 int i6 = 0;
                 int i7 = 0;
                 if (i2 == 1 || i2 == 0) {
-                    i4 = g.m139j(m101k((int) m23b, (int) m24c)) - i_renamed.m188c(0);
-                    i5 = g.m139j(m102l((int) m23b, (int) m24c)) - i_renamed.m189d(0);
+                    i4 = g.m139j(m101k((int) m23b, (int) m24c)) - i.m188c(0);
+                    i5 = g.m139j(m102l((int) m23b, (int) m24c)) - i.m189d(0);
                     i6 = m103m((int) m23b, (int) m24c);
                     i7 = m104n((int) m23b, (int) m24c);
                     if (!g.a(i4, i5, i4 + i6, i5 + i7, 0, 0, 320, 240)) {
@@ -6880,23 +6880,23 @@ public final class a extends g implements b, d, j, n, p {
                 g.b = f175a;
                 if (f376aL == -1 || f378aM != 361 || ia != 1) {
                     f.m122a(f170ab, f171ac);
-                    i_renamed.a(g.b, -f168Z, -f169aa, 0);
+                    i.a(g.b, -f168Z, -f169aa, 0);
                     f.m122a(320, 240);
                     g.d(0, 0, g.d(), g.e());
                 }
                 g.b = f176c;
             } else {
-                i_renamed.a(g.b, 0);
+                i.a(g.b, 0);
             }
-            m_renamed.m306a();
-            for (int i6 = 0; i6 < m_renamed.f900b.length; i6++) {
+            m.m306a();
+            for (int i6 = 0; i6 < m.f900b.length; i6++) {
                 if (m.f900b[i6] != -1) {
-                    int i7 = m_renamed.f900b[i6];
+                    int i7 = m.f900b[i6];
                     int i8 = f5a[i7] & 63;
                     if (f76e != null && f76e[i8] != null) {
                         for (int i9 = 0; i9 < f76e[i8].length / 10; i9++) {
-                            int a2 = (f76e[i8][i9 * 10] + a(i7)) - i_renamed.m188c(0);
-                            int b2 = (f76e[i8][(i9 * 10) + 1] + b(i7)) - i_renamed.m189d(0);
+                            int a2 = (f76e[i8][i9 * 10] + a(i7)) - i.m188c(0);
+                            int b2 = (f76e[i8][(i9 * 10) + 1] + b(i7)) - i.m189d(0);
                             short s2 = f76e[i8][(i9 * 10) + 6];
                             short s3 = f76e[i8][(i9 * 10) + 7];
                             short s4 = f76e[i8][(i9 * 10) + 2];
@@ -6926,12 +6926,12 @@ public final class a extends g implements b, d, j, n, p {
                             }
                         }
                     }
-                    int i12 = m_renamed.f900b[i6];
+                    int i12 = m.f900b[i6];
                     int i13 = f5a[i12] & 63;
                     if (f77f != null && f77f[i13] != null && f376aL == -1) {
                         for (int i14 = 0; i14 < f77f[i13].length / 8; i14++) {
-                            int a3 = (f77f[i13][i14 << 3] + a(i12)) - i_renamed.m188c(0);
-                            int b3 = (f77f[i13][(i14 << 3) + 1] + b(i12)) - i_renamed.m189d(0);
+                            int a3 = (f77f[i13][i14 << 3] + a(i12)) - i.m188c(0);
+                            int b3 = (f77f[i13][(i14 << 3) + 1] + b(i12)) - i.m189d(0);
                             short s5 = f77f[i13][(i14 << 3) + 4];
                             short s6 = f77f[i13][(i14 << 3) + 5];
                             short s7 = f77f[i13][(i14 << 3) + 2];
@@ -6954,8 +6954,8 @@ public final class a extends g implements b, d, j, n, p {
                                 short m23b3 = m23b((int) f100z[i15][9]);
                                 short m24c3 = m24c((int) f100z[i15][9]);
                                 if (f100z[i15][5] < 0 || f432p[f100z[i15][5]] == 1) {
-                                    int m139j = g.m139j(m101k((int) m23b3, (int) m24c3)) - i_renamed.m188c(0);
-                                    int m139j2 = g.m139j(m102l((int) m23b3, (int) m24c3)) - i_renamed.m189d(0);
+                                    int m139j = g.m139j(m101k((int) m23b3, (int) m24c3)) - i.m188c(0);
+                                    int m139j2 = g.m139j(m102l((int) m23b3, (int) m24c3)) - i.m189d(0);
                                     int m103m = m103m((int) m23b3, (int) m24c3);
                                     int m104n = m104n((int) m23b3, (int) m24c3);
                                     if (g.a(m139j, m139j2, m139j + m103m, m139j2 + m104n, 0, 0, 320, 240)) {
@@ -6964,7 +6964,7 @@ public final class a extends g implements b, d, j, n, p {
                                 }
                             }
                         }
-                        m_renamed.s = -1;
+                        m.s = -1;
                     } else if (f378aM == 418) {
                         for (int i16 = 0; i16 < f90u.length; i16++) {
                             if (f90u[i16] != null) {
@@ -6972,8 +6972,8 @@ public final class a extends g implements b, d, j, n, p {
                                     int a4 = f90u[i16][i17] + a(i16);
                                     int b4 = f90u[i16][i17 + 1] + b(i16);
                                     short s8 = f90u[i16][i17 + 2];
-                                    int m188c = a4 - i_renamed.m188c(0);
-                                    int m189d = b4 - i_renamed.m189d(0);
+                                    int m188c = a4 - i.m188c(0);
+                                    int m189d = b4 - i.m189d(0);
                                     if (g.a(m188c, m189d, m188c + s8, m189d + s8, 0, 0, 320, 240)) {
                                         if (hC == 128) {
                                             f14a[17].a(g.b, 71, m188c, m189d, 0, 0, 0);
@@ -6986,12 +6986,12 @@ public final class a extends g implements b, d, j, n, p {
                             }
                         }
                     } else if (f399h == null && hZ == 0 && f378aM != 356 && f378aM != 355 && f378aM != 413 && f378aM != 354 && f378aM != 412 && f378aM != 314 && f378aM != 417 && f378aM != 315 && f378aM != 405) {
-                        int m139j3 = g.m139j(hA) - i_renamed.m188c(0);
-                        int m139j4 = g.m139j(hB) - i_renamed.m189d(0);
+                        int m139j3 = g.m139j(hA) - i.m188c(0);
+                        int m139j4 = g.m139j(hB) - i.m189d(0);
                         int i18 = hC;
                         int i19 = hD;
                         if (g.a(m139j3, m139j4, m139j3 + i18, m139j4 + i19, 0, 0, 320, 240)) {
-                            m_renamed.s = e(a(0, g.m139j(hA) + (hC / 2), g.m139j(hB) + (hD / 2))) & (-225);
+                            m.s = e(a(0, g.m139j(hA) + (hC / 2), g.m139j(hB) + (hD / 2))) & (-225);
                             if (!f383E) {
                                 if (f378aM == 412 || ((f380aN & 2) == 0 && (f380aN & 1024) == 0)) {
                                     g.m153m(11154346);
@@ -7063,8 +7063,8 @@ public final class a extends g implements b, d, j, n, p {
                             }
                         }
                     } else if (f378aM == 412 && hH > 0) {
-                        int m139j5 = g.m139j(hA) - i_renamed.m188c(0);
-                        int m139j6 = g.m139j(hB) - i_renamed.m189d(0);
+                        int m139j5 = g.m139j(hA) - i.m188c(0);
+                        int m139j6 = g.m139j(hB) - i.m189d(0);
                         int m139j7 = g.m139j(ia) << 1;
                         if (g.a(m139j5, m139j6, m139j5 + m139j7, m139j6 + m139j7, 0, 0, 320, 240)) {
                             g.m153m(11154346);
@@ -7075,8 +7075,8 @@ public final class a extends g implements b, d, j, n, p {
                     }
                 }
                 if (ig != -1 && ih != -1 && ii != -1 && f426M) {
-                    int m139j8 = g.m139j(m101k(ih, ig)) - i_renamed.m188c(0);
-                    int m139j9 = g.m139j(m102l(ih, ig)) - i_renamed.m189d(0);
+                    int m139j8 = g.m139j(m101k(ih, ig)) - i.m188c(0);
+                    int m139j9 = g.m139j(m102l(ih, ig)) - i.m189d(0);
                     int m103m2 = m103m(ih, ig);
                     int m104n2 = m104n(ih, ig);
                     f16b[2].m132e(0);
@@ -7093,14 +7093,14 @@ public final class a extends g implements b, d, j, n, p {
                     f.m122a(f170ab, f171ac);
                 }
             }
-            if (f79n != null && m_renamed.f900b != null && f58A != 29) {
-                k.a(i.m188c(0) + 160, i_renamed.m189d(0) + 120, 640, 240);
-                for (int i25 = 0; i25 < m_renamed.f900b.length; i25++) {
+            if (f79n != null && m.f900b != null && f58A != 29) {
+                k.a(i.m188c(0) + 160, i.m189d(0) + 120, 640, 240);
+                for (int i25 = 0; i25 < m.f900b.length; i25++) {
                     if (m.f900b[i25] >= 0 && (sArr = f79n[m.f900b[i25]]) != null) {
                         for (int i26 = 0; i26 < sArr.length; i26 += 6) {
                             int i27 = i26;
-                            int m188c2 = sArr[i27] - i_renamed.m188c(0);
-                            int m189d2 = sArr[i27 + 1] - i_renamed.m189d(0);
+                            int m188c2 = sArr[i27] - i.m188c(0);
+                            int m189d2 = sArr[i27 + 1] - i.m189d(0);
                             short s9 = sArr[i27 + 2];
                             short s10 = sArr[i27 + 3];
                             if ((m188c2 != 0 || m189d2 != 0) && g.a(m188c2, m189d2, m188c2 + s9, m189d2 + s10, 0, 0, 320, 240)) {
@@ -7207,8 +7207,8 @@ public final class a extends g implements b, d, j, n, p {
                         short s12 = f30a[i34][(i36 * 22) + 3];
                         int i40 = f30a[i34][(i36 * 22) + 20] & 255;
                         Graphics graphics = g.b;
-                        int m188c3 = s11 - i_renamed.m188c(0);
-                        int m189d3 = s12 - i_renamed.m189d(0);
+                        int m188c3 = s11 - i.m188c(0);
+                        int m189d3 = s12 - i.m189d(0);
                         if (f384F) {
                             m188c3 -= f168Z;
                             m189d3 -= f169aa;
@@ -7235,7 +7235,7 @@ public final class a extends g implements b, d, j, n, p {
                     }
                 }
             }
-            m_renamed.c(-1);
+            m.c(-1);
             H(128);
             k.D();
             if (!f382D && f404c == "" && f376aL == -1) {
@@ -8132,7 +8132,7 @@ public final class a extends g implements b, d, j, n, p {
     }
 
     /* JADX INFO: Access modifiers changed from: package-private */
-    public static m_renamed a(int i2, int i3, boolean z2, int i4, int i5) {
+    public static m a(int i2, int i3, boolean z2, int i4, int i5) {
         return a(i2, i3, z2, g.o(0, 2) == 0, -1, -1);
     }
 
@@ -8204,13 +8204,13 @@ public final class a extends g implements b, d, j, n, p {
             if (f85e[2] == 0 && f85e[3] == 0) {
                 return;
             }
-            m_renamed a2 = m_renamed.a(f85e);
+            m a2 = m.a(f85e);
             if (i4 == 2) {
                 a2.f935g = sArr[i2 + 10];
                 a2.f936h = sArr[i2 + 11];
                 a2.f937i = sArr[i2 + 12];
             }
-            m_renamed.B++;
+            m.B++;
         }
     }
 
@@ -8240,8 +8240,8 @@ public final class a extends g implements b, d, j, n, p {
         f382D = false;
         if (f383E) {
             int i2 = -1;
-            m_renamed mVar = null;
-            for (m mVar2 = m_renamed.f906e; mVar2 != null; mVar2 = mVar2.f901a) {
+            m mVar = null;
+            for (m mVar2 = m.f906e; mVar2 != null; mVar2 = mVar2.f901a) {
                 if (mVar2.a == 3 && (mVar2.h & 2048) != 0 && mVar2.f915a.f > i2) {
                     mVar = mVar2;
                     i2 = mVar2.f915a.f;
@@ -8368,7 +8368,7 @@ public final class a extends g implements b, d, j, n, p {
                     int i12 = i6;
                     iArr2[i12] = iArr2[i12] | m44j(i6, 7);
                 }
-                if (m.m314a(1 + i2) > m_renamed.m314a((int) f21a.f915a.f673a[0]) && ((f376aL == -1 || f381c == 0) && 8 != i2)) {
+                if (m.m314a(1 + i2) > m.m314a((int) f21a.f915a.f673a[0]) && ((f376aL == -1 || f381c == 0) && 8 != i2)) {
                     if (f43d == null) {
                         f21a.f915a.f673a[0] = (byte) (1 + i2);
                     } else {
@@ -8638,9 +8638,9 @@ public final class a extends g implements b, d, j, n, p {
         if (f378aM != 389 && f378aM != 361) {
             return;
         }
-        m_renamed mVar = m_renamed.f906e;
+        m mVar = m.f906e;
         while (true) {
-            m_renamed mVar2 = mVar;
+            m mVar2 = mVar;
             if (mVar2 == null) {
                 return;
             }
@@ -8790,7 +8790,7 @@ public final class a extends g implements b, d, j, n, p {
             f85e[10] = -1;
             f85e[4] = 0;
             f85e[5] = 0;
-            m_renamed a2 = m_renamed.a(f85e);
+            m a2 = m.a(f85e);
             if (f72b[i2][i4 + 4] == 4) {
                 a2.h = 2048;
             } else {
@@ -8894,7 +8894,7 @@ public final class a extends g implements b, d, j, n, p {
     }
 
     private static void ah() {
-        int m184b = i_renamed.m184b(0);
+        int m184b = i.m184b(0);
         ez = 0;
         if (m184b >= 5 && m184b <= 10) {
             m29a();
@@ -9011,7 +9011,7 @@ public final class a extends g implements b, d, j, n, p {
                     }
                 }
                 if (i6 != i5) {
-                    m_renamed mVar = mVarArr[i5];
+                    m mVar = mVarArr[i5];
                     mVarArr[i5] = mVarArr[i6];
                     mVarArr[i6] = mVar;
                 }
@@ -9164,9 +9164,9 @@ public final class a extends g implements b, d, j, n, p {
             i5 = (f21a.f * f153T) / f21a.t;
             i6 = (f21a.g * f153T) / f21a.t;
         }
-        for (int i7 = 0; i7 < m_renamed.f900b.length; i7++) {
+        for (int i7 = 0; i7 < m.f900b.length; i7++) {
             if (m.f900b[i7] != -1) {
-                int i8 = m_renamed.f900b[i7];
+                int i8 = m.f900b[i7];
                 if (f84j != null && f84j[i8] != null) {
                     for (int i9 = 0; i9 < f84j[i8].length / 8; i9++) {
                         int m243e = k.m243e(i8, i9) - f21a.l;
@@ -9636,7 +9636,7 @@ public final class a extends g implements b, d, j, n, p {
             }
             i2 += 6;
         }
-        m_renamed m269a = f21a.f915a.m269a(k.R);
+        m m269a = f21a.f915a.m269a(k.R);
         if (z3 && m269a == null && (k.Z == 0 || k.Z == 4 || k.Z == 5 || k.Z == 7)) {
             f224b = m28a(4355);
             a(f16b[2], f16b[2].a(f224b, 190, 80), -1);
@@ -9674,8 +9674,8 @@ public final class a extends g implements b, d, j, n, p {
                 return;
             }
             int i14 = g.c_ & 3;
-            int m139j = g.m139j(i2) - i_renamed.m188c(0);
-            int m139j2 = ((g.m139j(i3) - i14) - i_renamed.m189d(0)) - 40;
+            int m139j = g.m139j(i2) - i.m188c(0);
+            int m139j2 = ((g.m139j(i3) - i14) - i.m189d(0)) - 40;
             if (z2 || z3) {
                 return;
             }
@@ -9705,8 +9705,8 @@ public final class a extends g implements b, d, j, n, p {
                 z7 = false;
             }
         }
-        if (g.m142a(g.m139j(i10), g.m139j(i11), g.m139j(i2), g.m139j(i3), i_renamed.m188c(0), i_renamed.m189d(0) + 40, i_renamed.m188c(0), (i.m189d(0) + g.e()) - 64) == 1) {
-            int m189d = g.g_ - i_renamed.m189d(0);
+        if (g.m142a(g.m139j(i10), g.m139j(i11), g.m139j(i2), g.m139j(i3), i.m188c(0), i.m189d(0) + 40, i.m188c(0), (i.m189d(0) + g.e()) - 64) == 1) {
+            int m189d = g.g_ - i.m189d(0);
             if (i4 != -1) {
                 g.m153m(i4);
             }
@@ -9729,9 +9729,9 @@ public final class a extends g implements b, d, j, n, p {
             }
             return;
         }
-        if (g.m142a(g.m139j(i10), g.m139j(i11), g.m139j(i2), g.m139j(i3), i_renamed.m188c(0), (i.m189d(0) + g.e()) - 64, i_renamed.m188c(0) + g.d(), (i.m189d(0) + g.e()) - 64) == 1) {
-            int m188c = (g.f_ - i_renamed.m188c(0)) - 1;
-            int m189d2 = g.g_ - i_renamed.m189d(0);
+        if (g.m142a(g.m139j(i10), g.m139j(i11), g.m139j(i2), g.m139j(i3), i.m188c(0), (i.m189d(0) + g.e()) - 64, i.m188c(0) + g.d(), (i.m189d(0) + g.e()) - 64) == 1) {
+            int m188c = (g.f_ - i.m188c(0)) - 1;
+            int m189d2 = g.g_ - i.m189d(0);
             if (m188c + (i7 / 3) > g.d()) {
                 m188c = g.d() - (i7 / 3);
             }
@@ -9764,9 +9764,9 @@ public final class a extends g implements b, d, j, n, p {
             }
             return;
         }
-        if (g.m142a(g.m139j(i10), g.m139j(i11), g.m139j(i2), g.m139j(i3), i_renamed.m188c(0) + g.d(), i_renamed.m189d(0) + 40, i_renamed.m188c(0) + g.d(), (i.m189d(0) + g.e()) - 64) == 1) {
-            int m188c2 = (g.f_ - i_renamed.m188c(0)) - 1;
-            int m189d3 = g.g_ - i_renamed.m189d(0);
+        if (g.m142a(g.m139j(i10), g.m139j(i11), g.m139j(i2), g.m139j(i3), i.m188c(0) + g.d(), i.m189d(0) + 40, i.m188c(0) + g.d(), (i.m189d(0) + g.e()) - 64) == 1) {
+            int m188c2 = (g.f_ - i.m188c(0)) - 1;
+            int m189d3 = g.g_ - i.m189d(0);
             if (i4 != -1) {
                 g.m153m(i4);
             }
@@ -9789,9 +9789,9 @@ public final class a extends g implements b, d, j, n, p {
             }
             return;
         }
-        if (g.m142a(g.m139j(i10), g.m139j(i11), g.m139j(i2), g.m139j(i3), i_renamed.m188c(0), i_renamed.m189d(0) + 40, i_renamed.m188c(0) + g.d(), i_renamed.m189d(0) + 40) == 1) {
-            int m188c3 = (g.f_ - i_renamed.m188c(0)) - 1;
-            int m189d4 = g.g_ - i_renamed.m189d(0);
+        if (g.m142a(g.m139j(i10), g.m139j(i11), g.m139j(i2), g.m139j(i3), i.m188c(0), i.m189d(0) + 40, i.m188c(0) + g.d(), i.m189d(0) + 40) == 1) {
+            int m188c3 = (g.f_ - i.m188c(0)) - 1;
+            int m189d4 = g.g_ - i.m189d(0);
             if (m188c3 + (i7 / 3) > g.d()) {
                 m188c3 = g.d() - (i7 / 3);
             }
@@ -10003,8 +10003,8 @@ public final class a extends g implements b, d, j, n, p {
     }
 
     private static void p(int i2, int i3) {
-        fi = (i2 * (fe << 1)) / i_renamed.m190e(0);
-        fj = (i3 * (ff << 1)) / i_renamed.m191f(0);
+        fi = (i2 * (fe << 1)) / i.m190e(0);
+        fj = (i3 * (ff << 1)) / i.m191f(0);
     }
 
     private static void f(boolean z2) {
@@ -10056,7 +10056,7 @@ public final class a extends g implements b, d, j, n, p {
                 g.d(m2a, m2a2, m2a3, m2a4);
             }
             if (f384F) {
-                p(i.m188c(0) + f168Z + (f170ab / 2), i_renamed.m189d(0) + f169aa + (f171ac / 2));
+                p(i.m188c(0) + f168Z + (f170ab / 2), i.m189d(0) + f169aa + (f171ac / 2));
             } else {
                 p(g.m139j(f21a.l), g.m139j(f21a.m));
             }
@@ -10163,9 +10163,9 @@ public final class a extends g implements b, d, j, n, p {
         if (n <= 0) {
             return;
         }
-        m_renamed mVar = m_renamed.f906e;
+        m mVar = m.f906e;
         while (true) {
-            m_renamed mVar2 = mVar;
+            m mVar2 = mVar;
             if (mVar2 == null) {
                 return;
             }
@@ -10339,9 +10339,9 @@ public final class a extends g implements b, d, j, n, p {
                 a(g.i(a3 + 12), g.i(b3 + 12), false, true, false, false, false);
                 p(a3, b3, fk, fl);
                 if (f58A != 30) {
-                    f14a[16].a(67, 0, m_renamed.f899a, 0);
-                    int i9 = (m.f899a[2] - m_renamed.f899a[0]) >> 2;
-                    int i10 = (m.f899a[3] - m_renamed.f899a[1]) >> 2;
+                    f14a[16].a(67, 0, m.f899a, 0);
+                    int i9 = (m.f899a[2] - m.f899a[0]) >> 2;
+                    int i10 = (m.f899a[3] - m.f899a[1]) >> 2;
                     fm = i9 + 0 > fm ? i9 + 0 : fm;
                     fm = 45 - i9 < fm ? 45 - i9 : fm;
                     fn = i10 + 45 > fn ? i10 + 45 : fn;
@@ -10367,13 +10367,13 @@ public final class a extends g implements b, d, j, n, p {
     public static void c(int i2, int i3, boolean z2) {
         if (f273u) {
             ah();
-            i_renamed.m183d();
+            i.m183d();
             ez = 0;
             i(true);
             return;
         }
         ah();
-        i_renamed.m183d();
+        i.m183d();
         ez = 0;
         a(1, false);
         bf = true;
@@ -10479,7 +10479,7 @@ public final class a extends g implements b, d, j, n, p {
         }
     }
 
-    public static void a(int i2, int i3, m_renamed mVar) {
+    public static void a(int i2, int i3, m mVar) {
         int i4 = 0;
         while (i4 < f238aq.length && f238aq[i4] != -1) {
             i4 += 14;
@@ -10620,7 +10620,7 @@ public final class a extends g implements b, d, j, n, p {
                         m53a(g.i(f238aq[i12 + 3] + f238aq[i12 + 9]), g.i(f238aq[i12 + 4] + f238aq[i12 + 10]), 8);
                         a(32, false);
                         a(g.i(f238aq[i12 + 3] + f238aq[i12 + 9]), g.i(f238aq[i12 + 4] + f238aq[i12 + 10]), m44j, m44j2, k.f683g);
-                        i_renamed.a(0, f16b[58], 181, f238aq[i12 + 3] + f238aq[i12 + 9], f238aq[i12 + 4] + f238aq[i12 + 10], 3, true);
+                        i.a(0, f16b[58], 181, f238aq[i12 + 3] + f238aq[i12 + 9], f238aq[i12 + 4] + f238aq[i12 + 10], 3, true);
                         f238aq[i12] = -1;
                         f238aq[i12 + 1] = -1;
                     }
@@ -10658,12 +10658,12 @@ public final class a extends g implements b, d, j, n, p {
                         if (i5 >= f16b[57].m116a(2)) {
                             f237ap[i4] = -1;
                         } else {
-                            f16b[57].a(g.b, 2, i5, m139j3 - i_renamed.m188c(0), m139j4 - i_renamed.m189d(0), 0);
+                            f16b[57].a(g.b, 2, i5, m139j3 - i.m188c(0), m139j4 - i.m189d(0), 0);
                         }
                     } else if (i5 >= f16b[57].m116a(0)) {
                         f237ap[i4] = -1;
                     } else {
-                        f16b[57].a(g.b, 0, i5, m139j3 - i_renamed.m188c(0), m139j4 - i_renamed.m189d(0), 0);
+                        f16b[57].a(g.b, 0, i5, m139j3 - i.m188c(0), m139j4 - i.m189d(0), 0);
                     }
                 } else if (((f237ap[i4 + 2] & 256) == 256 && (f237ap[i4 + 2] & i2) == i2) || (((f237ap[i4 + 2] & 2048) == 2048 && (f237ap[i4 + 2] & i2) == i2) || ((f237ap[i4 + 2] & 1024) == 1024 && (f237ap[i4 + 2] & i2) == i2))) {
                     int i6 = f242aA;
@@ -10678,7 +10678,7 @@ public final class a extends g implements b, d, j, n, p {
                     if (i7 >= f16b[objArr == true ? 1 : 0].m116a(i6)) {
                         f237ap[i4] = -1;
                     } else {
-                        f16b[objArr == true ? 1 : 0].a(g.b, i6, i7, m139j3 - i_renamed.m188c(0), m139j4 - i_renamed.m189d(0), 0);
+                        f16b[objArr == true ? 1 : 0].a(g.b, i6, i7, m139j3 - i.m188c(0), m139j4 - i.m189d(0), 0);
                     }
                 } else if (((f237ap[i4 + 2] & 2) == 2 && (f237ap[i4 + 2] & i2) == i2) || ((f237ap[i4 + 2] & 16) == 16 && (f237ap[i4 + 2] & i2) == i2)) {
                     if (f22c) {
@@ -10691,7 +10691,7 @@ public final class a extends g implements b, d, j, n, p {
                         f206q.b(31 + f237ap[i4 + 5], 1);
                     }
                     f206q.m175a().m132e(0);
-                    f206q.a(m139j3 - i_renamed.m188c(0), m139j4 - i_renamed.m189d(0));
+                    f206q.a(m139j3 - i.m188c(0), m139j4 - i.m189d(0));
                     f206q.m179b();
                     int[] iArr = f237ap;
                     int i8 = i4 + 3;
@@ -10721,9 +10721,9 @@ public final class a extends g implements b, d, j, n, p {
                     for (int i11 = 0; i11 < 5; i11++) {
                         int i12 = ((i11 * 3) + i4) & 15;
                         if (f384F) {
-                            g.f(((m139j3 + (f163g[i12 << 1] * o2)) - i_renamed.m188c(0)) - f168Z, ((m139j4 + (f163g[(i12 << 1) + 1] * o2)) - i_renamed.m189d(0)) - f169aa, i9, i9);
+                            g.f(((m139j3 + (f163g[i12 << 1] * o2)) - i.m188c(0)) - f168Z, ((m139j4 + (f163g[(i12 << 1) + 1] * o2)) - i.m189d(0)) - f169aa, i9, i9);
                         } else {
-                            g.f((m139j3 + (f163g[i12 << 1] * o2)) - i_renamed.m188c(0), (m139j4 + (f163g[(i12 << 1) + 1] * o2)) - i_renamed.m189d(0), i9, i9);
+                            g.f((m139j3 + (f163g[i12 << 1] * o2)) - i.m188c(0), (m139j4 + (f163g[(i12 << 1) + 1] * o2)) - i.m189d(0), i9, i9);
                         }
                     }
                 } else if (((f237ap[i4 + 2] & 8) == 8 || (f237ap[i4 + 2] & 512) == 512) && f237ap[i4 + 3] >= 0) {
@@ -10732,7 +10732,7 @@ public final class a extends g implements b, d, j, n, p {
                     if (i14 >= f16b[59].m116a(i13)) {
                         f237ap[i4] = -1;
                     } else {
-                        f16b[59].a(g.b, i13, i14, m139j3 - i_renamed.m188c(0), m139j4 - i_renamed.m189d(0), 0);
+                        f16b[59].a(g.b, i13, i14, m139j3 - i.m188c(0), m139j4 - i.m189d(0), 0);
                     }
                 }
             }
@@ -10745,21 +10745,21 @@ public final class a extends g implements b, d, j, n, p {
                     i17 = 2;
                 }
                 if (i17 != 0) {
-                    f16b[60].a(g.b, i17 + 3, f238aq[i15] - i_renamed.m188c(0), f238aq[i15 + 13] - i_renamed.m189d(0), 0);
+                    f16b[60].a(g.b, i17 + 3, f238aq[i15] - i.m188c(0), f238aq[i15 + 13] - i.m189d(0), 0);
                 }
-                f16b[60].a(g.b, i17 + 0, f238aq[i15] - i_renamed.m188c(0), f238aq[i15 + 1] - i_renamed.m189d(0), 0);
+                f16b[60].a(g.b, i17 + 0, f238aq[i15] - i.m188c(0), f238aq[i15 + 1] - i.m189d(0), 0);
             }
         }
     }
 
     /* JADX INFO: Access modifiers changed from: package-private */
-    public static void a(int i2, int i3, int i4, int i5, m_renamed mVar) {
+    public static void a(int i2, int i3, int i4, int i5, m mVar) {
         a(i2, i3, i4, i5, mVar, true);
     }
 
     /* JADX INFO: Access modifiers changed from: package-private */
-    public static void a(int i2, int i3, int i4, int i5, m_renamed mVar, boolean z2) {
-        m_renamed mVar2 = m_renamed.f906e;
+    public static void a(int i2, int i3, int i4, int i5, m mVar, boolean z2) {
+        m mVar2 = m.f906e;
         if (f376aL != -1 && f402H && (mVar == f21a || mVar == k.f683g)) {
             m99p();
         }
@@ -10871,10 +10871,10 @@ public final class a extends g implements b, d, j, n, p {
         }
         k.a(g.m139j(f21a.l), g.m139j(f21a.m), 48, 48);
         for (int i11 = 0; i11 < 4; i11++) {
-            if (m.f900b[i11] > -1 && m_renamed.f900b[i11] < m_renamed.f896a.length) {
-                m_renamed mVar3 = m_renamed.f896a[m.f900b[i11]];
+            if (m.f900b[i11] > -1 && m.f900b[i11] < m.f896a.length) {
+                m mVar3 = m.f896a[m.f900b[i11]];
                 while (true) {
-                    m_renamed mVar4 = mVar3;
+                    m mVar4 = mVar3;
                     if (mVar4 != null) {
                         if (m.m317c(mVar4)) {
                             int m139j4 = g.m139j(mVar4.l - i2);
@@ -10894,7 +10894,7 @@ public final class a extends g implements b, d, j, n, p {
         }
     }
 
-    private static void a(m mVar, m_renamed mVar2) {
+    private static void a(m mVar, m mVar2) {
         int i2 = mVar.l;
         int i3 = mVar.m;
         int i4 = mVar.f;
@@ -10924,13 +10924,13 @@ public final class a extends g implements b, d, j, n, p {
     }
 
     /* renamed from: a, reason: collision with other method in class */
-    private static m_renamed m55a(int i2, int i3, int i4) {
+    private static m m55a(int i2, int i3, int i4) {
         return m56a(i2, i3, i4, 3, g.o(0, 16));
     }
 
     /* JADX INFO: Access modifiers changed from: package-private */
     /* renamed from: a, reason: collision with other method in class */
-    public static m_renamed m56a(int i2, int i3, int i4, int i5, int i6) {
+    public static m m56a(int i2, int i3, int i4, int i5, int i6) {
         f85e[11] = 0;
         f85e[0] = 3;
         f85e[2] = i2;
@@ -10939,7 +10939,7 @@ public final class a extends g implements b, d, j, n, p {
         f85e[4] = i4;
         f85e[8] = 0;
         f85e[6] = i6;
-        m_renamed a2 = m_renamed.a(f85e);
+        m a2 = m.a(f85e);
         a2.f890a = (byte) (f85e[6] % 16);
         a2.a((byte) i5, i2, i3, 0, 3, 3300, 500, 100, -1);
         return a2;
@@ -11045,7 +11045,7 @@ public final class a extends g implements b, d, j, n, p {
         }
     }
 
-    private static m_renamed a(int i2, int i3, int i4, boolean z2) {
+    private static m a(int i2, int i3, int i4, boolean z2) {
         f85e[11] = 0;
         f85e[0] = 2;
         f85e[2] = i2;
@@ -11057,7 +11057,7 @@ public final class a extends g implements b, d, j, n, p {
         if (!z2) {
             f85e[4] = 9;
         }
-        m_renamed a2 = m_renamed.a(f85e);
+        m a2 = m.a(f85e);
         a2.f890a = (byte) i4;
         a2.a((byte) 2, g.m139j(i2), g.m139j(i3), 0, 3, 3300, 500, 100, -1);
         a2.j = g.i(k.m273b((int) a2.f890a));
@@ -11094,8 +11094,8 @@ public final class a extends g implements b, d, j, n, p {
             bi = true;
         }
         if (z2) {
-            i_renamed.i(0);
-            i_renamed.i(1);
+            i.i(0);
+            i.i(1);
         }
     }
 
@@ -12753,7 +12753,7 @@ public final class a extends g implements b, d, j, n, p {
             hl = 0;
         }
         if (i2 == 5) {
-            i_renamed.m183d();
+            i.m183d();
         }
     }
 
@@ -13474,15 +13474,15 @@ public final class a extends g implements b, d, j, n, p {
             hl = 0;
         }
         if (i2 == 5) {
-            i_renamed.m183d();
+            i.m183d();
         }
     }
 
     private void S(int i2) {
         if (i2 == 0) {
             gJ = 0;
-            i_renamed.i(0);
-            i_renamed.i(1);
+            i.i(0);
+            i.i(1);
             b(9, false);
             G();
             if (f245b == -1) {
@@ -13553,7 +13553,7 @@ public final class a extends g implements b, d, j, n, p {
             gG = -1;
         }
         if (i2 == 3) {
-            i_renamed.m183d();
+            i.m183d();
         }
         if (i2 == 1) {
             ab();
@@ -13565,9 +13565,9 @@ public final class a extends g implements b, d, j, n, p {
             aN = true;
         }
         if (i2 == 5) {
-            int m184b = i_renamed.m184b(0);
+            int m184b = i.m184b(0);
             if (i.m182a(0)) {
-                i_renamed.d(0);
+                i.d(0);
             }
             f(m184b, 0, 0);
         }
@@ -13597,7 +13597,7 @@ public final class a extends g implements b, d, j, n, p {
             gH = 0;
             if (gI > 0) {
                 gH = gI;
-                i_renamed.e(0);
+                i.e(0);
             }
             gI = 0;
             h(true);
@@ -13647,7 +13647,7 @@ public final class a extends g implements b, d, j, n, p {
                 f71F = 19;
                 m19a(19);
                 if (i.m182a(0)) {
-                    i_renamed.d(0);
+                    i.d(0);
                 }
             }
             if ((gH > 8000 && !m()) || m69g) {
@@ -13689,10 +13689,10 @@ public final class a extends g implements b, d, j, n, p {
             i(25, (m66a(1, f326aE) || a(f326aE)) ? 17 : 5, 0, 0);
         }
         if (i2 == 4) {
-            i_renamed.e(0);
+            i.e(0);
         }
-        if (i2 == 5 && i_renamed.m182a(0)) {
-            i_renamed.d(0);
+        if (i2 == 5 && i.m182a(0)) {
+            i.d(0);
         }
     }
 
@@ -15787,7 +15787,7 @@ public final class a extends g implements b, d, j, n, p {
             f284aw = m65a(40, 1);
             hl = 0;
             a(-1, -1, false);
-            i_renamed.m183d();
+            i.m183d();
             if (aI) {
                 a(0, false);
             }
@@ -15857,7 +15857,7 @@ public final class a extends g implements b, d, j, n, p {
             hl = 0;
         }
         if (i2 == 5) {
-            i_renamed.m183d();
+            i.m183d();
         }
     }
 
@@ -15883,7 +15883,7 @@ public final class a extends g implements b, d, j, n, p {
                     a(-1, -1, false);
                 } else {
                     bx();
-                    i_renamed.m183d();
+                    i.m183d();
                     g.y();
                     a(-1, -1, false);
                 }
@@ -16082,7 +16082,7 @@ public final class a extends g implements b, d, j, n, p {
     }
 
     private static void bf() {
-        m_renamed m97a;
+        m m97a;
         if (f376aL < 0 || hZ != 0 || f376aL == 1001) {
             return;
         }
@@ -16796,9 +16796,9 @@ public final class a extends g implements b, d, j, n, p {
             f392g[i12] = null;
         }
         boolean z2 = false;
-        m_renamed mVar = m_renamed.f906e;
+        m mVar = m.f906e;
         while (true) {
-            m_renamed mVar2 = mVar;
+            m mVar2 = mVar;
             if (mVar2 == null) {
                 break;
             }
@@ -16860,7 +16860,7 @@ public final class a extends g implements b, d, j, n, p {
         }
         for (int i15 = 0; i15 < 3; i15++) {
             if (f393aO[i15] != -1) {
-                m_renamed mVar3 = f392g[i15];
+                m mVar3 = f392g[i15];
                 if (mVar3.f891a > 0) {
                     int i16 = ((g.c_ & 15) * 255) / 15;
                     if (((f378aM == 355 || f378aM == 356) && mVar3.a == 4) || f378aM == 389) {
@@ -16913,7 +16913,7 @@ public final class a extends g implements b, d, j, n, p {
                     byte b3 = f390b[i2];
                     f390b[i2] = f390b[i3];
                     f390b[i3] = b3;
-                    m_renamed mVar = f391a[i2];
+                    m mVar = f391a[i2];
                     f391a[i2] = f391a[i3];
                     f391a[i3] = mVar;
                 }
@@ -17113,7 +17113,7 @@ public final class a extends g implements b, d, j, n, p {
         f401G = false;
         f402H = false;
         f403aQ = -1;
-        m_renamed mVar = m_renamed.f906e;
+        m mVar = m.f906e;
         if (f100z[f376aL][5] > -1) {
             while (mVar != null) {
                 if (mVar.a == 4 || !(mVar.a != 6 || (mVar.h & 3) == 3 || (mVar.h & 3) == 0)) {
@@ -17122,7 +17122,7 @@ public final class a extends g implements b, d, j, n, p {
                     if (i6 < 0) {
                         f154U = 0;
                     }
-                    m_renamed mVar2 = mVar.f901a;
+                    m mVar2 = mVar.f901a;
                     mVar.c();
                     mVar = mVar2;
                 } else if (mVar.a == 3 || mVar.a == 6) {
@@ -17131,7 +17131,7 @@ public final class a extends g implements b, d, j, n, p {
                     if (i7 < 0) {
                         f155V = 0;
                     }
-                    m_renamed mVar3 = mVar.f901a;
+                    m mVar3 = mVar.f901a;
                     mVar.c();
                     mVar = mVar3;
                 } else {
@@ -17165,7 +17165,7 @@ public final class a extends g implements b, d, j, n, p {
         bi();
     }
 
-    private static m_renamed a(int i2, int i3, int i4, int i5, int i6, int i7, int i8, int i9) {
+    private static m a(int i2, int i3, int i4, int i5, int i6, int i7, int i8, int i9) {
         int i10 = -1;
         int i11 = -1;
         short m23b = m23b(i3);
@@ -17191,7 +17191,7 @@ public final class a extends g implements b, d, j, n, p {
         if (f85e[4] == 0) {
             f85e[4] = 2;
         }
-        m_renamed a2 = m_renamed.a(f85e);
+        m a2 = m.a(f85e);
         if (i7 != -1) {
             a2.k = i7;
         }
@@ -17247,9 +17247,9 @@ public final class a extends g implements b, d, j, n, p {
     }
 
     /* renamed from: a, reason: collision with other method in class */
-    public static m_renamed m97a(int i2, int i3) {
-        m_renamed mVar;
-        m_renamed mVar2 = m_renamed.f906e;
+    public static m m97a(int i2, int i3) {
+        m mVar;
+        m mVar2 = m.f906e;
         while (true) {
             mVar = mVar2;
             if (mVar == null) {
@@ -17454,9 +17454,9 @@ public final class a extends g implements b, d, j, n, p {
                 }
                 f37b = (short) 0;
                 f21a.f891a = f21a.f892b;
-                m_renamed mVar = m_renamed.f906e;
+                m mVar = m.f906e;
                 while (true) {
-                    m_renamed mVar2 = mVar;
+                    m mVar2 = mVar;
                     if (mVar2 == null) {
                         break;
                     }
@@ -17467,7 +17467,7 @@ public final class a extends g implements b, d, j, n, p {
                     }
                     mVar = mVar2.f901a;
                 }
-                m_renamed.b();
+                m.b();
             }
             if (f436Q || f437R) {
                 z2 = true;
@@ -17535,9 +17535,9 @@ public final class a extends g implements b, d, j, n, p {
             f225ar = -1;
         }
         f440T = false;
-        m_renamed mVar = m_renamed.f906e;
+        m mVar = m.f906e;
         while (true) {
-            m_renamed mVar2 = mVar;
+            m mVar2 = mVar;
             if (mVar2 == null) {
                 break;
             }
@@ -17548,7 +17548,7 @@ public final class a extends g implements b, d, j, n, p {
                 mVar2.f915a.f = -1;
             }
             if ((mVar2.h & 67108864) != 0 || (mVar2.a == 7 && mVar2.u == -1 && hZ == -1)) {
-                m_renamed mVar3 = mVar2.f901a;
+                m mVar3 = mVar2.f901a;
                 mVar2.c();
                 mVar = mVar3;
             } else {
@@ -17670,13 +17670,13 @@ public final class a extends g implements b, d, j, n, p {
     }
 
     private static void a(m mVar, boolean z2, boolean z3) {
-        m_renamed mVar2 = m_renamed.f906e;
+        m mVar2 = m.f906e;
         while (true) {
-            m_renamed mVar3 = mVar2;
+            m mVar3 = mVar2;
             if (mVar3 == null) {
                 return;
             }
-            m_renamed mVar4 = mVar3.f901a;
+            m mVar4 = mVar3.f901a;
             if (mVar != mVar3 && mVar.m327d(mVar3) && mVar.a != 4 && mVar3 != f21a && mVar3 != f43d && mVar3.a != 5 && (mVar3.h & 2048) != 2048) {
                 if (mVar3 == f21a) {
                     f21a.f915a.a(2, (m) null);
@@ -17691,9 +17691,9 @@ public final class a extends g implements b, d, j, n, p {
 
     public static void g(m mVar) {
         int b2;
-        m_renamed mVar2 = null;
+        m mVar2 = null;
         int i2 = -1;
-        for (m mVar3 = m_renamed.f906e; mVar3 != null; mVar3 = mVar3.f901a) {
+        for (m mVar3 = m.f906e; mVar3 != null; mVar3 = mVar3.f901a) {
             if (mVar3.f915a != null && mVar3.a == 4 && (mVar3.h & 2048) != 0 && mVar3.f891a > 0 && (b2 = mVar.b(mVar3)) <= 12800 && (b2 < i2 || i2 == -1)) {
                 i2 = b2;
                 mVar2 = mVar3;
@@ -17731,7 +17731,7 @@ public final class a extends g implements b, d, j, n, p {
             f175a.drawRect(1, 1, f170ab - 3, f171ac - 3);
         }
         int i4 = 0;
-        for (m mVar = m_renamed.f906e; mVar != null; mVar = mVar.f901a) {
+        for (m mVar = m.f906e; mVar != null; mVar = mVar.f901a) {
             if ((mVar.a == 4 || mVar.a == 3 || mVar.a == 2) && (mVar.h & 2048) != 0) {
                 mVar.a(mVar.f909a.m175a(), -5);
                 int i5 = mVar.f907c[0];
@@ -17826,16 +17826,16 @@ public final class a extends g implements b, d, j, n, p {
     }
 
     private static void bo() {
-        m_renamed mVar = m_renamed.f906e;
+        m mVar = m.f906e;
         while (true) {
-            m_renamed mVar2 = mVar;
+            m mVar2 = mVar;
             if (mVar2 == null) {
                 f155V = 0;
                 f154U = 0;
                 f35e = (short) 0;
                 return;
             }
-            m_renamed mVar3 = mVar2.f901a;
+            m mVar3 = mVar2.f901a;
             if ((mVar2.h & 2048) != 2048 && mVar2 != f21a && mVar2 != f43d) {
                 if (mVar2 == k.f695j) {
                     k.f695j = null;
@@ -17847,14 +17847,14 @@ public final class a extends g implements b, d, j, n, p {
     }
 
     private static void bp() {
-        m_renamed mVar = m_renamed.f906e;
+        m mVar = m.f906e;
         while (true) {
-            m_renamed mVar2 = mVar;
+            m mVar2 = mVar;
             if (mVar2 == null) {
                 f21a.f915a.f675a = null;
                 return;
             }
-            m_renamed mVar3 = mVar2.f901a;
+            m mVar3 = mVar2.f901a;
             if ((mVar2.h & 2048) == 2048 && mVar2 != f21a && mVar2 != f43d) {
                 mVar2.c();
             }
@@ -17870,9 +17870,9 @@ public final class a extends g implements b, d, j, n, p {
             f43d.f915a.f761o = null;
             f43d.f915a.f(0);
             k.f694i.h &= -6291457;
-            m_renamed mVar = k.f694i;
+            m mVar = k.f694i;
             k kVar = k.f694i.f915a;
-            m_renamed mVar2 = k.f694i;
+            m mVar2 = k.f694i;
             k.f694i.g = 0;
             mVar2.f = 0;
             kVar.b = 0;
@@ -18047,7 +18047,7 @@ public final class a extends g implements b, d, j, n, p {
             for (int i10 = 0; i10 < C3; i10++) {
                 fVarArr[i10] = f6c[m88d(i2, i9, i10)];
             }
-            i_renamed.a(i9, C3, fVarArr);
+            i.a(i9, C3, fVarArr);
         }
         for (int i11 = 0; i11 < 28; i11++) {
             if (f6c[i11] != null) {
@@ -18055,7 +18055,7 @@ public final class a extends g implements b, d, j, n, p {
             }
         }
         for (int i12 = 0; i12 < length; i12++) {
-            i_renamed.m199j(i12);
+            i.m199j(i12);
         }
         for (int i13 = 0; i13 < 28; i13++) {
             if (f6c[i13] != null) {
@@ -18079,7 +18079,7 @@ public final class a extends g implements b, d, j, n, p {
             for (int i17 = 0; i17 < C4; i17++) {
                 r0[i17] = bArr[m88d(i14, i16, i17)];
             }
-            i_renamed.a(i16, (byte[][]) r0);
+            i.a(i16, (byte[][]) r0);
         }
     }
 
@@ -18103,7 +18103,7 @@ public final class a extends g implements b, d, j, n, p {
         f73a = null;
         f79n = f103B;
         f82i = f104C;
-        m_renamed.j();
+        m.j();
         if (!f479bW || f376aL == -1) {
             g.A();
         }
@@ -18172,7 +18172,7 @@ public final class a extends g implements b, d, j, n, p {
             k.Z = 0;
             f21a.f915a.f(0);
         }
-        m_renamed.a(true);
+        m.a(true);
         if (f164ai != null) {
             for (int i2 = 0; i2 < f164ai.length; i2 += 2) {
                 f164ai[i2] = 268435455;
@@ -18200,11 +18200,11 @@ public final class a extends g implements b, d, j, n, p {
         }
         f21a.f902b = null;
         f21a.f901a = null;
-        m_renamed.a(f21a);
+        m.a(f21a);
         if (f43d != null) {
             f43d.f902b = null;
             f43d.f901a = null;
-            m_renamed.a(f43d);
+            m.a(f43d);
             f21a.t = 0;
             f21a.f915a.f673a[11] = 1;
             f21a.f915a.n = 0;
@@ -18314,7 +18314,7 @@ public final class a extends g implements b, d, j, n, p {
     private static void bx() {
         byte[] bArr = new byte[1425];
         bArr[0] = (byte) (aI ? 1 : 0);
-        bArr[1] = (byte) i_renamed.d;
+        bArr[1] = (byte) i.d;
         bArr[4] = (byte) (bj ? 1 : 0);
         bArr[5] = (byte) (k.f707g ? 1 : 0);
         bArr[3] = (byte) (f480bX ? 1 : 0);
@@ -18592,7 +18592,7 @@ public final class a extends g implements b, d, j, n, p {
         if (dw > 0) {
             dw -= g.a_;
         }
-        i_renamed.m181c();
+        i.m181c();
         Z();
     }
 
@@ -18601,7 +18601,7 @@ public final class a extends g implements b, d, j, n, p {
         super.hideNotify();
         g.l(200);
         v(5);
-        i_renamed.m183d();
+        i.m183d();
     }
 
     @Override // defpackage.g

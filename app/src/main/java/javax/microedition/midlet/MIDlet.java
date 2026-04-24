@@ -13,4 +13,8 @@ public abstract class MIDlet {
     public final void notifyDestroyed() {
         if (activity != null) activity.finish();
     }
+    
+    public final String getAppProperty(String key) {
+        return null;
+    }
 }
