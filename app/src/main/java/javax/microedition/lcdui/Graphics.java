@@ -31,8 +31,8 @@ public class Graphics {
         canvas.clipRect(x, y, x + w, y + h);
     }
 
-    public int getClipX() { return canvas.getClipBounds().left; }
-    public int getClipY() { return canvas.getClipBounds().top; }
+    public int getClipX() { return canvas.getClipBounds().left - tx; }
+    public int getClipY() { return canvas.getClipBounds().top - ty; }
     public int getClipWidth() { return canvas.getClipBounds().width(); }
     public int getClipHeight() { return canvas.getClipBounds().height(); }
 
@@ -54,6 +54,7 @@ public class Graphics {
 
     public void setColor(int r, int g, int b) { paint.setARGB(255, r, g, b); }
     public void setColor(int rgb) { paint.setColor(0xFF000000 | rgb); }
+    public int getColor() { return paint.getColor() & 0x00FFFFFF; }
     
     public void fillRect(int x, int y, int w, int h) { canvas.drawRect(x, y, x + w, y + h, paint); }
     public void drawRect(int x, int y, int w, int h) { 
@@ -78,4 +79,5 @@ public class Graphics {
         path.close();
         canvas.drawPath(path, paint);
     }
+    public void setFont(Font f) {}
 }

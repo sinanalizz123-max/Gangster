@@ -2058,7 +2058,7 @@ public final class a extends g implements b, d, j, n, p {
 
     private static void D() {
         int i2;
-        i.a(0, f364i);
+        i_local_dummy.a(0, f364i);
         m mVar = m.f905d;
         while (true) {
             m mVar2 = mVar;
@@ -2153,7 +2153,7 @@ public final class a extends g implements b, d, j, n, p {
     }
 
     private static void E() {
-        i.a(0, f364i);
+        i_local_dummy.a(0, f364i);
         m mVar = m.f905d;
         while (true) {
             m mVar2 = mVar;
