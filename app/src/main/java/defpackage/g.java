@@ -191,7 +191,7 @@ public abstract class g extends Canvas implements Runnable {
 
     /* renamed from: b, reason: collision with other field name */
     private static boolean f594b = true;
-    private static int f_shadow = -9999;
+    private static int f_renamed = -9999;
     private static int h = 25;
     static final int d_ = 256;
     static final int e_ = 256 >> 1;
@@ -917,7 +917,7 @@ public abstract class g extends Canvas implements Runnable {
                         long j2 = f616f << 8;
                         byte[] bArr3 = f614c;
                         p = p + 1;
-                        f616f = j2 | (bArr3[r2] & 255);
+                        f616f = j2 | (bArr3[r2_local] & 255);
                     }
                     while (i22 < i14) {
                         int i27 = i22 & i23;
@@ -974,7 +974,7 @@ public abstract class g extends Canvas implements Runnable {
                                                 j3 <<= 8;
                                                 byte[] bArr4 = f614c;
                                                 p = p + 1;
-                                                j4 = (j4 << 8) | (bArr4[r3] & 255);
+                                                j4 = (j4 << 8) | (bArr4[r3_local] & 255);
                                             }
                                         }
                                         f615e = j3;
@@ -1296,7 +1296,7 @@ public abstract class g extends Canvas implements Runnable {
             long j3 = f616f << 8;
             byte[] bArr = f614c;
             p = p + 1;
-            f616f = j3 | (bArr[r2] & 255);
+            f616f = j3 | (bArr[r2_local] & 255);
             f615e <<= 8;
             return 0;
         }
@@ -1310,7 +1310,7 @@ public abstract class g extends Canvas implements Runnable {
         long j4 = f616f << 8;
         byte[] bArr2 = f614c;
         p = p + 1;
-        f616f = j4 | (bArr2[r2] & 255);
+        f616f = j4 | (bArr2[r2_local] & 255);
         f615e <<= 8;
         return 1;
     }

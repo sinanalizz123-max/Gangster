@@ -22,7 +22,7 @@ public final class a extends g implements b, d, j, n, p {
 
     /* renamed from: a, reason: collision with other field name */
     static byte[] f5a;
-    private static byte[] i_shadow;
+    private static byte[] i_local;
     static int c;
     static int d;
     static int e;
