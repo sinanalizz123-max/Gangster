@@ -27,10 +27,22 @@ public class Image {
         }
     }
 
+    public static Image createImage(int w, int h) {
+        return new Image(Bitmap.createBitmap(w, h, Bitmap.Config.ARGB_8888));
+    }
+
+    public static Image createRGBImage(int[] rgb, int width, int height, boolean processAlpha) {
+        return new Image(Bitmap.createBitmap(rgb, width, height, Bitmap.Config.ARGB_8888));
+    }
+
+    public void getRGB(int[] rgbData, int offset, int scanlength, int x, int y, int width, int height) {
+        bitmap.getPixels(rgbData, offset, scanlength, x, y, width, height);
+    }
+
     public int getWidth() { return bitmap.getWidth(); }
     public int getHeight() { return bitmap.getHeight(); }
 
     public Graphics getGraphics() {
-        return new Graphics(new Canvas(bitmap));
+        return new Graphics(new android.graphics.Canvas(bitmap));
     }
 }

@@ -191,7 +191,7 @@ public abstract class g extends Canvas implements Runnable {
 
     /* renamed from: b, reason: collision with other field name */
     private static boolean f594b = true;
-    private static int f = -9999;
+    private static int f_renamed = -9999;
     private static int h = 25;
     static final int d_ = 256;
     static final int e_ = 256 >> 1;
